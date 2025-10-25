@@ -9,7 +9,7 @@ known_phrases = {
 
 # A list to store all the words the bot has learned
 learned_words = [
-    "I", "can", "create", "new", "sentences", "with", "the", "words", "you", "give", "me","am","peanuts","butter","poutine","Nissan","Skyline","RB26DETT","nice","beaver","Canada","fast","why","speed","fast","makes","wheel","go","fast","guess","calculator","microwave","because","is","him","her","ah","toyota","supra","Nismo","better","yes","no","interface","error","deploy","evil","idiot","stupid","algorithm","made","honda","engine","it","top_gear","amazing","trash","garbage","code","moron","plane","twin","towers","wing","explosion","boom","giant","city"
+    "I", "can", "create", "new", "sentences", "with", "the", "words", "you", "give", "me","am","peanuts","butter","poutine","Nissan","Skyline","RB26DETT","nice","beaver","Canada","fast","why","speed","fast","makes","wheel","go","fast","guess","calculator","microwave","because","is","him","her","ah","toyota","supra","Nismo","better","yes","no","interface","error","deploy","evil","idiot","stupid","algorithm","made","honda","engine","it","top_gear","amazing","trash","garbage","code","moron","explosion","boom","giant","city"
 ]
 
 def generate_sentence():
